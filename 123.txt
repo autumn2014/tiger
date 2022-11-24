@@ -1,1 +1,8 @@
 123123456456456
+npm WARN config global `--global`, `--local` are deprecated. Use `--location=global` instead.
+npm WARN old lockfile 
+npm WARN old lockfile The package-lock.json file was created with an old version of npm,
+npm WARN old lockfile so supplemental metadata must be fetched from the registry.
+npm WARN old lockfile
+npm WARN old lockfile This is a one-time fix-up, please be patient...
+npm WARN old lockfile
