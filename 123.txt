@@ -6,3 +6,5 @@ npm WARN old lockfile so supplemental metadata must be fetched from the registry
 npm WARN old lockfile
 npm WARN old lockfile This is a one-time fix-up, please be patient...
 npm WARN old lockfile
+1、突出位移监测为主，后面可转换为速度进行对比；
+2、GNSS爆破振动监测可作为现有传感器爆破监测有力补充。如提供低频爆破振动监测识别；多维丰富信息、空间信息，为振动监测多角度、多方位评价提供基础（GIS+BIM）；提供监测、传输自动化能力；提升现场爆破振动监测抗干扰能力；降低监测成本；
